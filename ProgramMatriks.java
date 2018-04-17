@@ -1,4 +1,4 @@
-package program_matriks;
+package program;
 import java.util.Scanner;
 
 public class ProgramMatriks {
